@@ -1,4 +1,4 @@
-# ydlidar_ros_mapping
+# ydlidar_ros_drivers
 A script that does everything instead of you to install the things for ydlidar mapping
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Before you install the mapping softwares you have to install Ubuntu 20.04 on your RaspberryPi
