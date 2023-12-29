@@ -14,6 +14,7 @@ cd YDLidar-SDK/build
 cmake ..
 make
 sudo make install
+cd
 mkdir -p ydlidar_ws/src/ydlidar_ros_driver
 cd ydlidar_ws/src/ydlidar_ros_driver
 git clone https://github.com/YDLIDAR/ydlidar_ros_driver.git
