@@ -14,7 +14,7 @@ Ubuntu Install:
  - After the installation is done just reboot the device ```sudo shutdown -r now```
 ## After installing linux
  - Clone this repo ```git clone https://github.com/Rajmi105/ydlidar_ros_drivers.git```
- - Copy the installer script to your home folder ```cp ~/ydlidar_ros_mapping/ydlidarinstaller.sh ~/```
+ - Copy the installer script to your home folder ```cp ~/ydlidar_ros_drivers/ydlidarinstaller.sh ~/```
  - Run it ```bash ydlidarinstaller.sh```
  - This will install everything you will need and also it will start the mapping program
 ## If you want to start the mapping after rebooting your Raspberry Pi
